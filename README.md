@@ -1,15 +1,10 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=🪐&fontSize=100&animation=twinkling" />
 
 <div align=center>
-  <img align="center" width="30%" src="https://podicmaster.cdn3.cafe24.com/artworks/0778b.png" />
-</div>
-
-
-<div align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LaQ778&count_private=true&show_icons=true&theme=buefy&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laq778&count_private=true&show_icons=true&theme=buefy&bg_color=00000000"/>
 </div>
 <div align=center>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LaQ778&layout=compactcount_private=true&show_icons=true&theme=buefy&bg_color=00000000"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laq778&layout=compactcount_private=true&show_icons=true&theme=buefy&bg_color=00000000"/>
 </div>
 
 <h2 align="center">💻tech skill💻</h2>
